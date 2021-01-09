@@ -1,0 +1,22 @@
+{
+  "name": "maplestorydiscordbot",
+  "version": "1.0.0",
+  "description": "Discord bot for the Asia Maplestory Guild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevintian/mapleDiscordBot.git"
+  },
+  "author": "Kevin Tian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevintian/mapleDiscordBot/issues"
+  },
+  "homepage": "https://github.com/kevintian/mapleDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
