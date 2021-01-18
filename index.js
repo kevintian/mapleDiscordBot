@@ -29,7 +29,7 @@ flagTimes.forEach(cronTime => {
         "asia": "505667339614814230",
         "botServer": "771601695728730112"
       */
-      const flagChannel = await guild.channels.fetch("784700229231575040");
+      const flagChannel = await client.channels.fetch("784700229231575040");
       flagChannel.send("<@&787007601841274920> in five minutes everyone!");
     },
     { timezone: "Etc/UTC" }
